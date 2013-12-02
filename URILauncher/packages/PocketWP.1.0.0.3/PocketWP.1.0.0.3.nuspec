@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>PocketWP</id>
+    <version>1.0.0.3</version>
+    <title>PocketWP</title>
+    <authors>ScottIsAFool</authors>
+    <owners>ScottIsAFool</owners>
+    <projectUrl>https://github.com/ScottIsAFool/PocketWP</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A helper file for those wanting to send items to a Pocket client on Windows Phone, as well as those building Pocket clients for Windows Phone in order to manage the shared uri scheme</description>
+    <releaseNotes />
+    <copyright />
+    <language />
+    <dependencies>
+      <dependency id="PropertyChanged.Fody" version="1.42.0.0" />
+    </dependencies>
+  </metadata>
+</package>
